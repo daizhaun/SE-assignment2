@@ -1,1 +1,2 @@
-print("Hello from the undated main branch!")
+
+print("Hello from both the main and feature-2 branches!")
